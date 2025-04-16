@@ -1,0 +1,4 @@
+"./msp430x54xA_1.obj"
+"../lnk_msp430f5438a.cmd"
+-llibmath.a
+-llibc.a

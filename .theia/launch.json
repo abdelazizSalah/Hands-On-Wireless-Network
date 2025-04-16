@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "msp430x54xA_1.c",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "msp430x54xA_1.c",
+                "resourceId": "/msp430x54xA_1.c"
+            },
+            "debuggerSettings": {
+                "targetConfigs/MSP430F5438A.ccxml": {
+                    "TI MSP430 USB1/MSP430": {
+                        "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                    }
+                }
+            }
+        }
+    ]
+}
